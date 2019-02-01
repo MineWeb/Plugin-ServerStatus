@@ -1,0 +1,23 @@
+{
+    "SERVERSTATUS_TITLE": "Status des serveurs",
+    "SERVERSTATUS_TITLE_SERV": "Status de",
+    "SERVERSTATUS_SERV_PING": "ms",
+    "SERVERSTATUS_SERV_MOTD": "MOTD",
+    "SERVERSTATUS_SERV_DISP_ERROR": "Hors ligne",
+    "SERVERSTATUS_SERV_DISP_SUCCESS": "En ligne",
+    "SERVERSTATUS_MOJANG": "Status des serveurs de Mojang",
+    "SERVERSTATUS_TITLE_SETTING": "Configuration général",
+    "SERVERSTATUS_MOJANG": "Afficher le status de Mojang",
+    "SERVERSTATUS_MOJANG_DESC": "Si actif, le status des serveurs de Mojang sera affiché",
+    "SERVERSTATUS_SHOW": "Afficher",
+    "SERVERSTATUS_DONT_SHOW": "Ne pas afficher",
+    "SERVERSTATUS_TITLE_GESTION": "Gestion des serveurs | Status des serveurs",
+    "SERVERSTATUS_TITLE_DESC": "Votre description du serveur (Si vide, le MOTD du serveur sera affiché)",
+    "SERVERSTATUS_IP": "Adresse IP:",
+    "SERVERSTATUS_SHOW_IP": "Afficher l'adresse ip",
+    "SERVERSTATUS_SHOW_IP_DESC": "Si actif, l'adresse ip du serveur sera affiché dans le status de celui-ci",
+    "SERVERSTATUS_SHOW_CONNECTED": "Afficher le nombre de connectés",
+    "SERVERSTATUS_SHOW_CONNECTED_DESC": "Si actif, le nombre de joueurs connectés sera affiché dans le status de celui-ci",
+    "SERVERSTATUS_SHOW_STATUS_CONNECTION": "Afficher le status de connexion",
+    "SERVERSTATUS_SHOW_STATUS_CONNECTION_DESC": "Si actif, l'état de connexion sera affiché dans le status de celui-ci"
+}

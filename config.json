@@ -1,0 +1,28 @@
+{
+    "name": "ServerStatus",
+    "author": "EmpireDev",
+    "version": "1.4.2",
+    "admin_menus": {
+        "SERVER__TITLE": {
+            "Gestion des serveurs": {
+                "icon": "cog",
+                "route": "/admin/serverstatus"
+            }
+        }
+    },
+    "navbar_routes": {
+        "Status des serveurs": "/serverstatus"
+    },
+    "apiID": 36,
+    "useEvents": false,
+    "permissions": {
+        "available": [],
+        "default": {
+            "0": [],
+            "2": []
+        }
+    },
+    "requirements": {
+        "CMS": "^1.2.0"
+    }
+}
