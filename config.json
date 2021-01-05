@@ -1,7 +1,7 @@
 {
     "name": "ServerStatus",
     "author": "EmpireDev",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "admin_menus": {
         "SERVER__TITLE": {
             "Gestion des serveurs": {
@@ -13,7 +13,6 @@
     "navbar_routes": {
         "Status des serveurs": "/serverstatus"
     },
-    "apiID": 36,
     "useEvents": false,
     "permissions": {
         "available": [],
@@ -23,6 +22,6 @@
         }
     },
     "requirements": {
-        "CMS": "^1.2.0"
+        "CMS": "^1.11.0"
     }
 }
